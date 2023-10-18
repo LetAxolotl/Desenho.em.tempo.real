@@ -1,0 +1,32 @@
+/* Dê estilo à classe heading */
+  .heading
+  {
+    font-size: 23px;
+ width: 100%;
+ margin: 0px;
+ box-shadow: 5px 5px 5px rgb(255, 93, 120); 
+  }
+  /* Dê estilo à nossa classe de observação */
+  .note
+  {
+   font-size: 17px;
+   color: rgb(128, 0, 21)
+  }
+  /* Dê estilo à nossa classe copy_right_footer */
+  .copy_right_footer {
+  position: fixed;
+ color: rgb(255, 115, 139);
+  bottom: 0;
+  width: 100%;
+  background-color: pink;
+    line-height: 3;
+    text-align: center;
+ }
+ /* Dê estilo ao div */
+  canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+   box-shadow:5px 5px grey;
+  }
+ 
